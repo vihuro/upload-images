@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xbFS8lGCW1L2JWY5mP2SUYM9nB5smHhOrlr4tFs0WS8=",
+  "Source": "upload-images.Api",
+  "BasePath": "_content/upload-images.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

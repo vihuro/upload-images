@@ -1,0 +1,12 @@
+C:\Users\Vitor Hugo\source\repos\upload-images\upload-images.Application\bin\Debug\net7.0\upload-images.Application.deps.json
+C:\Users\Vitor Hugo\source\repos\upload-images\upload-images.Application\bin\Debug\net7.0\upload-images.Application.dll
+C:\Users\Vitor Hugo\source\repos\upload-images\upload-images.Application\bin\Debug\net7.0\upload-images.Application.pdb
+C:\Users\Vitor Hugo\source\repos\upload-images\upload-images.Application\obj\Debug\net7.0\upload-images.Application.csproj.AssemblyReference.cache
+C:\Users\Vitor Hugo\source\repos\upload-images\upload-images.Application\obj\Debug\net7.0\upload-images.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitor Hugo\source\repos\upload-images\upload-images.Application\obj\Debug\net7.0\upload-images.Application.AssemblyInfoInputs.cache
+C:\Users\Vitor Hugo\source\repos\upload-images\upload-images.Application\obj\Debug\net7.0\upload-images.Application.AssemblyInfo.cs
+C:\Users\Vitor Hugo\source\repos\upload-images\upload-images.Application\obj\Debug\net7.0\upload-images.Application.csproj.CoreCompileInputs.cache
+C:\Users\Vitor Hugo\source\repos\upload-images\upload-images.Application\obj\Debug\net7.0\upload-images.Application.dll
+C:\Users\Vitor Hugo\source\repos\upload-images\upload-images.Application\obj\Debug\net7.0\refint\upload-images.Application.dll
+C:\Users\Vitor Hugo\source\repos\upload-images\upload-images.Application\obj\Debug\net7.0\upload-images.Application.pdb
+C:\Users\Vitor Hugo\source\repos\upload-images\upload-images.Application\obj\Debug\net7.0\ref\upload-images.Application.dll
